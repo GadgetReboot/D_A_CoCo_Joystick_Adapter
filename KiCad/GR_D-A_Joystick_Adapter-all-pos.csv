@@ -1,0 +1,16 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"G***","LOGO","pcb way logo",-21.062000,27.195000,180.000000,bottom
+"C1","100nF","C_Disc_D3.8mm_W2.6mm_P2.50mm",3.062000,18.345000,90.000000,top
+"C2","10uF 16v","CP_Radial_D5.0mm_P2.50mm",2.562000,11.895000,0.000000,top
+"J1","Conn_01x06","PinHeader_1x06_P2.54mm_Vertical",9.712000,33.695000,90.000000,top
+"J2","Conn_01x06","PinHeader_1x06_P2.54mm_Vertical",10.002000,4.045000,90.000000,top
+"J4","Conn_01x02","PinHeader_1x02_P2.54mm_Vertical",2.172000,4.045000,90.000000,top
+"R1","47K","R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal",27.762000,32.795000,-90.000000,top
+"R2","47K","R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal",39.162000,16.195000,-90.000000,top
+"R3","47K","R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal",35.362000,16.195000,-90.000000,top
+"R4","47K","R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal",31.562000,16.195000,-90.000000,top
+"R5","47K","R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal",27.712000,16.195000,-90.000000,top
+"R6","47K","R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal",31.562000,20.095000,90.000000,top
+"R7","47K","R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal",35.312000,32.795000,-90.000000,top
+"R8","47K","R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal",39.112000,20.095000,90.000000,top
+"U1","CD4066BE","DIP-14_W7.62mm_Socket_LongPads",7.962000,15.795000,90.000000,top
